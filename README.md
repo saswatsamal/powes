@@ -18,5 +18,6 @@ password: "1941012227"
 
 <h2> Visit ThingSpeak </h2>
 - You can also check the regular trend in temperature, humidity, air pressure and lux in ThingSpeak.
+- To see the graph and trend  <a href="./thingspeak" target="blank">visit here</a>
 
 
